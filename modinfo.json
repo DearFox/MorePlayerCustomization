@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "mpc",
+  "name": "MPC - More Player Customization",
+  "authors": [ "DearFox" ],
+  "description": "Больше кастомизации для игрока!",
+  "version": "1.14.0-0.1",
+  "dependency": {
+    "game": "1.14.0"
+  }
+}

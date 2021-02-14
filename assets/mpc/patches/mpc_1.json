@@ -1,0 +1,8 @@
+[
+	{ file: "game:entities/humanoid/player", op: "add", path: "/attributes/skinnableParts/0/variants/-",
+	value: { code: "fur1", texture: "mpc:mpc_1/body/furry/fur1" },
+	},
+	{ file: "game:entities/humanoid/player", op: "add", path: "/attributes/skinnableParts/3/variants/-",
+	value: { code: "null", texture: "mpc:mpc_1/underwear/null" },
+	}
+]
